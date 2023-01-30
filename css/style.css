@@ -1095,6 +1095,9 @@ h6 {
   line-height: 44px;
   flex: 0 1 68%;
 }
+audio{
+  margin-bottom: 110px;
+}
 @media (max-width: 61.99875em) {
   .audio__text {
     flex: 0 1 auto;
@@ -1112,7 +1115,4 @@ h6 {
   audio{
     margin-bottom: 40px;
   }
-}
-audio{
-  margin-bottom: 110px;
 }
